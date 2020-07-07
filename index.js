@@ -1,1 +1,1 @@
-console.error("HALP!")
+console.log("Assert nobe_modules")
