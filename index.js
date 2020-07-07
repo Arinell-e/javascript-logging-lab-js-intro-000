@@ -1,1 +1,1 @@
-console.log("Call")
+console.log("Assert nobe_module, call, logging.")
